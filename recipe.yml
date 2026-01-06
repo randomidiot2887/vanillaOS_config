@@ -30,15 +30,13 @@ stages:
         - git
         - openssh-server
         - avahi-daemon
-        - nss-mdns
         - ufw
         - fwupd
         - iw
         - wireless-regdb
         - acpid
+        - alsa-tools
         - iio-sensor-proxy
-        - alsa-utils
-        - pamixer
         - curl
         - vim
 
